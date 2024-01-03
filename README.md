@@ -62,7 +62,7 @@ ant jar
 
 To run the interpreter with a .asp file:
 ``` shell
-java -jar asp.jar /path/to/file.asp
+java -jar asp.jar <file.asp>
 ```
 
 The Asp interpreter also accepts flags to test different parts of the
