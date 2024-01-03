@@ -7,10 +7,9 @@ called Asp, and developed as part of UiO's
 You can found all the supported tokens in
 [TokenKind.java](./no/uio/ifi/asp/scanner/TokenKind.java) file.
 
-This project is built upon the codebase provided by the
-[IN2030](https://www.uio.no/studier/emner/matnat/ifi/IN2030/) course, and the
-source code can be found
-[here](https://www.uio.no/studier/emner/matnat/ifi/IN2030/h23/beskjeder/referanseinterpreten.html).
+This project is built upon the codebase provided by the course, and the source
+code can be found
+[here](https://www.uio.no/studier/emner/matnat/ifi/IN2030/h23/nedlasting/).
 
 
 ## Example program
